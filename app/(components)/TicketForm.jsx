@@ -28,7 +28,7 @@ const TicketForm = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const res = await fetch("/api/Ticket", {
+    const res = await fetch("/api/Tickets", {
       method: "POST",
       body: JSON.stringify({ formData }),
       "content-type": "application/json",
@@ -64,9 +64,9 @@ const TicketForm = () => {
         <label>Description</label>
         <textarea
           placeholder="Enter Your Description"
-          value={formData.Description}
-          name="Description"
-          id="Description"
+          value={formData.description}
+          name="description"
+          id="description"
           required={true}
           onChange={handleChange}
           rows={2}
@@ -79,9 +79,10 @@ const TicketForm = () => {
           onChange={handleChange}
         >
           <option value="Software Developer">Software Developer</option>
-          <option value=">Hardware Developer">Hardware Developer</option>
+          <option value="Hardware Developer">Hardware Developer</option>
           <option value="Embedded Developer">Embedded Developer</option>
           <option value="IoT Developer">IoT Developer</option>
+          <option value="IoT Developer">Project</option>
         </select>
 
         <label>Priority</label>
