@@ -21,10 +21,11 @@ A simple ticketing app built with Next.js, MongoDB, and Tailwind CSS. Perform CR
 
 ## Technologies Used
 
-- [Next.js](https://nextjs.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Vercel](https://vercel.com/)
+- [Next.js](https://nextjs.org/) 🚀
+- [MongoDB](https://www.mongodb.com/) 🍃
+- [Tailwind CSS](https://tailwindcss.com/) 🎨
+- [Vercel](https://vercel.com/) ▲
+
 
 ## Installation
 
