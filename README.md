@@ -2,7 +2,7 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![Live Demo](https://ticketing-app-lake.vercel.app/)
+#[Live Demo](https://ticketing-app-lake.vercel.app/)
 
 ## Description
 
