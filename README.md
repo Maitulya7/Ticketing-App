@@ -2,7 +2,12 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-#[Live Demo](https://ticketing-app-lake.vercel.app/)
+## Live Demo 🚀
+
+Explore the live demo by visiting [**Live Demo**](https://ticketing-app-lake.vercel.app/).
+
+Feel free to interact with the app and experience the features firsthand! 🎉
+
 
 ## Description
 
