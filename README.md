@@ -20,15 +20,11 @@ A simple ticketing app built with Next.js, MongoDB, and Tailwind CSS. Perform CR
 - **Delete Ticket**: Remove unnecessary tickets from the system.
 
 ## Technologies Used
-🚀
-- [Next.js](https://nextjs.org/)
-- 🍃
-- [MongoDB](https://www.mongodb.com/)
-- 🎨
-- [Tailwind CSS](https://tailwindcss.com/)
--  ▲
+🚀[Next.js](https://nextjs.org/) 
+🍃[MongoDB](https://www.mongodb.com/) 
+🎨[Tailwind CSS](https://tailwindcss.com/) 
+ ▲[Vercel](https://vercel.com/)
 
-- [Vercel](https://vercel.com/)
 
 ## Installation
 
