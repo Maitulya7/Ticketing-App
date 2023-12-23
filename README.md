@@ -2,6 +2,8 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+[Live Demo](https://ticketing-app-lake.vercel.app/)
+
 ## Description
 
 A simple ticketing app built with Next.js, MongoDB, and Tailwind CSS. Perform CRUD operations to create, update, and delete tickets.
